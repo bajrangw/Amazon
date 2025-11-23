@@ -3,7 +3,7 @@ A fully responsive Amazon.com UI clone built using HTML, CSS, and JavaScript.
 This project replicates the layout, design components, and basic interactions of the Amazon homepage, including the navigation bar, product cards, image slider, footer, sign-in pages, and more.
 
 🔗 **Live Demo**
-👉 Live Preview: https://your-demo-link-here.com
+👉 Live Preview: https://amazon-neon-tau.vercel.app/
 
 🚀 **Features**
 🔹 Responsive UI
